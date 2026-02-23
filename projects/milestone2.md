@@ -1,4 +1,4 @@
-# CYBR4580/8950 Project Milestone 2: Prototype and Research Paper Outline
+# CIST8950 Project Milestone 2: Prototype and Research Paper Outline
 
 **Submit on canvas, make sure to include a link to your github repo**
 **Add Dr. Hale as a collaborator on your GitHub Repo**
