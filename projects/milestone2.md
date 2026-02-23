@@ -147,7 +147,7 @@ You will be expected to present your Milestone 2 achievements to the class. It i
 Submit your slides on Canvas alongside your paper outline and respository link.
 
 ### Grading Criteria
-You will be graded by a presentation rubric posted on canvas.
+You will be graded by a presentation rubric posted on canvas. Your presentation should focus on your intermediate outcomes. The class knows about your project from milestone 1, so spend your time on updating them on what youve done so far and asking for feedback. This time, presentations should be 10 minutes or less with at least 5 minutes for Q/A.
 
 **Total 60 points.**
 
