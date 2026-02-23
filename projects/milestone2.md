@@ -141,10 +141,10 @@ This part of the milestone is strictly captured by your Kanban board and/our iss
 **Total 40 points.**
 
 ## Presentation
-You will be expected to present your Milestone 2 achievements to the class and your sponsor in the form of a video. It is important that you use this time to both inform your classmates and sponsor of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting intermediate findings of conducting your projects.
+You will be expected to present your Milestone 2 achievements to the class. It is important that you use this time to both inform your classmates of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting intermediate findings of conducting your projects.
 
 ### Submission Materials
-Submit your slides on Canvas and post your video using Yuja to canvas alongside your paper outline and respository link. Also post the link to your Yuja video on our slack channel - so that your peers can see it
+Submit your slides on Canvas alongside your paper outline and respository link.
 
 ### Grading Criteria
 You will be graded by a presentation rubric posted on canvas.
