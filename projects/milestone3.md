@@ -1,4 +1,4 @@
-# CYBR4580/8950 Final Project Milestone (Milestone 3): Final Delivery Increment, Packaging, and Release
+# CIST 8950 Final Project Milestone (Milestone 3): Final Delivery Increment, Packaging, and Release
 
 
 ## Overview
